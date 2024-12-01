@@ -21,14 +21,25 @@
 				neovim
 				ripgrep
 
-				# languages and stuff
+				# random languages and stuff
 				nodejs
 				bun
 				go
 
+				# ocaml shit
+				ocaml
+				opam
+				dune_3
+				ocamlPackages.findlib
+				ocamlPackages.core
+				ocamlPackages.utop
+				ocamlPackages.ocaml-lsp
+
 				# macOS related
-				yabai
 				skhd
+
+				# infra?
+				cloudflared
 			];
 		};
 	};
